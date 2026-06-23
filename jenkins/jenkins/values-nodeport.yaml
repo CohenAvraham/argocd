@@ -1,3 +1,2 @@
-controller:
-  serviceType: NodePort
-  nodePort: 8080
+  agentListenerNodePort: 8080
+
